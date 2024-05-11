@@ -1,4 +1,15 @@
 .DS_Store
 .idea
 *.pptx
+<<<<<<< HEAD
 envdl/
+=======
+transcription/
+*.h5
+*.txt
+*.zip
+*.part
+*[Aa]nswered*
+__pycache__/
+*VOC*
+>>>>>>> c675b93d7db0e6cc3bb744b0af7c47812525013a
